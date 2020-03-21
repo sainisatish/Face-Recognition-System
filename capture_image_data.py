@@ -7,7 +7,7 @@ Created on Wed Mar 18 23:18:56 2020
 
 import cv2
 import numpy as np
-cascade_class=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+cascade_class=cv2.CascadeClassifier("cascade_classifier/haarcascade_frontalface_default.xml")
 bucket=[]
 counter=1
 font=cv2.FONT_HERSHEY_COMPLEX
