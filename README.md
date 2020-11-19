@@ -7,6 +7,7 @@ Try to use different kind of methods with different kinds of algorithms.
 3.Apply Algorithm and training the model.
 4.Testing The Model.
 5.Repeating The Step 3 with another algorithm .
+
 #Installation 
 1 - OpenCV
 2-Numpy
